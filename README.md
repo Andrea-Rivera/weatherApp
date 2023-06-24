@@ -12,6 +12,9 @@ Inside this repo, the weather.py file contains several functions, most which had
 
 
 ### Screenshots
->My Wireframe screenshots are the following:
+>Screenshot for exercises 1 to 4
 ![Screenshot for exercises 1 to 4](images/github1.png)
+
+>Screenshot for exercises 4 to 8
+
 ![Screenshot for exercises 4 to 8](images/github2.png)
